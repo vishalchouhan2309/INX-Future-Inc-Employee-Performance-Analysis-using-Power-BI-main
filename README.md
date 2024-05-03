@@ -28,7 +28,7 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/INX-Future-Inc-Employee-Performance-Analysis-using-Power-BI/blob/main/Employee%20Performance%20-%20Interactive%20Dashboard.png)
+![Alt text of the image](https://github.com/vishalchouhan2309/INX-Future-Inc-Employee-Performance-Analysis-using-Power-BI/blob/main/Employee%20Performance%20-%20Interactive%20Dashboard.png)
 
 ## **Project Insight**
 
